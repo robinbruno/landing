@@ -1,0 +1,11 @@
+.banner{
+  background: url"(images/background.png)";
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+}
+
+.banner .text-banner{
+  color:rgb(255, 209, 41);
+
+}

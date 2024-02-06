@@ -1,0 +1,22 @@
+.cards-presentation{
+  width: 900px;
+  margin: 0 auto;
+}
+
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.card{
+  width: 250px;
+  text-align: center;
+  border: 1px solid #147404;
+  box-shadow: 0 0 5px #147404;
+  padding: 10px;
+}
+
+.card img{
+  width: 150px;
+}
